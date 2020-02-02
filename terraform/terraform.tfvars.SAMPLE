@@ -1,0 +1,22 @@
+# User Variables are declared here
+
+// GCP Project name, for example, `trustless2020`
+project_name = ""
+
+// Path of the setup script, for example, `../scripts/setup.sh`
+script_path = ""
+
+// Path of the public SSH key, for example `../.ssh/id_rsa.pub`
+public_key_path = ""
+
+// Path of the private SSH key, for example, `../.ssh/id_rsa`
+private_key_path = ""
+
+// Path of the GCP service account credentials, for example, `../credentials.json`
+service_key_path = ""
+
+// Username of the user accessing the host, for example $USER
+username = ""
+
+// URL of a tar file of a backed up DB
+db_url = ""
